@@ -20,6 +20,10 @@ title: Notes
 - Link Manager: [wallabag](https://www.wallabag.org/en), su [github](https://github.com/wallabag)
 - Mail
 	- Posfix
+		- frontend store&forward
+			- https://github.com/samuelcolvin/email-forward
+			- https://www.howtoforge.com/postfix_backup_mx
+			- https://github.com/roehling/postsrsd
 	- Dovecot
 	- webmail:
 		- [mailpile](https://www.mailpile.is/)
